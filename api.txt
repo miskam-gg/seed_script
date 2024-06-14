@@ -1,0 +1,3 @@
+https://api.battlemetrics.com/servers/26737505 - "[RU] [RFS] Russian Freedom Server"
+https://api.battlemetrics.com/servers/27909506 - "[RU] [RFS: #2] Russian Freedom Server"
+https://api.battlemetrics.com/servers/27255969 - "[RU] [RFS: INV] Russian Freedom Server"

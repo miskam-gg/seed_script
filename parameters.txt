@@ -1,0 +1,15 @@
+FOR HD
+pyautogui.doubleClick(x=956, y=88) - "Navigating to Servers menu"
+pyautogui.doubleClick(x=630, y=177) - "Search field to activate it"
+pyautogui.doubleClick(x=391, y=253) - "Enter to search for server"
+pyautogui.moveTo(x=1595, y=927) - "Clicked to the server"
+FOR 2K
+pyautogui.doubleClick(x=1274, y=117) - "Navigating to Servers menu"
+pyautogui.doubleClick(x=840, y=236) - "Search field to activate it"
+pyautogui.doubleClick(x=521, y=337) - "Enter to search for server"
+pyautogui.moveTo(x=2126, y=1236) - "Clicked to the server"
+FOR LR
+pyautogui.doubleClick(x=637, y=58) - "Navigating to Servers menu"
+pyautogui.doubleClick(x=420, y=118) - "Search field to activate it"
+pyautogui.doubleClick(x=260, y=168) - "Enter to search for server"
+pyautogui.moveTo(x=1063, y=618) - "Clicked to the server"
